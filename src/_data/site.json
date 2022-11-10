@@ -1,0 +1,17 @@
+{
+  "baseURL": "https://hello.world",
+  "author": "hello.world",
+  "description": "hello.world - Venture Capital",
+  "title": "hello.world - Venture Capital",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/#"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/company/#"
+    }
+  ]
+}
